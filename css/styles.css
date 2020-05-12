@@ -599,19 +599,16 @@ header li:hover:after  {
 .wr-contact .contact-us {
     margin-top: 80px;
 }
-.wr-contact .contact-us fieldset {
-    border: none;
-}
 .wr-contact .contact-us .input-block, .wr-contact .contact-us .textarea {
-    width: 39%;
+    width: 527px;
     display: inline-block;
+    vertical-align: middle;
 }
 .wr-contact .contact-us .input-block {
     margin-right: 40px;
 }
 .wr-contact .contact-us .textarea {
     margin-left: 40px;
-    position: relative;
 }
 .wr-contact .contact-us textarea {
     width: 100%;
@@ -621,11 +618,7 @@ header li:hover:after  {
     font-family: opensans-reg, sans-serif;
     border: none;
     border-bottom: 1px solid #bdbdbd;
-    position: absolute;
-    top: -142px;
-    left: -6px;
 }
-/*need to fix*/
 .wr-contact .contact-us .input-block input {
     font-family: opensans-reg, sans-serif;
     font-size: 14px;
@@ -656,7 +649,6 @@ header li:hover:after  {
     border-radius: 5%;
     cursor: pointer;
 }
-/*need to be fix*/
 /* footer
 ----------------------------------*/
 footer {
