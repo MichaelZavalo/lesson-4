@@ -47,9 +47,9 @@ header .container {
     position: relative;
 }
 header img {
- position: absolute;
- top: 21px;
- left: 10%;
+    position: absolute;
+    top: 21px;
+    left: 10%;
 }
 header ul {
     list-style-type: none;
